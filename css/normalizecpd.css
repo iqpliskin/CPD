@@ -340,9 +340,9 @@ template {
   display: none;
 }
 
-<!-- <p>BEGIN CSS HERE</p> -->
-#cpd
+/*Start css for DESKTOP*/
+html
 {
-	width: 200px;
-  height: 200px;
+	color: #52040B;
+
 }
