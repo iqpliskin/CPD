@@ -51,5 +51,9 @@ table {
 h1
 {
 	color: #C90A1B;
-
+}
+img
+{
+	height: 200px;
+	width: 200px;
 }
